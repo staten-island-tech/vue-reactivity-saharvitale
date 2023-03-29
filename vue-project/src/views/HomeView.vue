@@ -7,3 +7,8 @@ import TheWelcome from '../components/TheWelcome.vue'
     <TheWelcome />
   </main>
 </template>
+<style>
+h1 {
+  color: purple;
+}
+</style>
