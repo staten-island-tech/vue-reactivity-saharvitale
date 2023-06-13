@@ -22,9 +22,8 @@ export default {
       flowers: [
         {
           id: 1,
-          name: "The Great Gatsby",
-          cost: 13.99,
-          author: "F. Scott Fitzgerald",
+          name: "Rose",
+          cost: 18.99,
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780743273565_p0_v14_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
@@ -32,9 +31,8 @@ export default {
         },
         {
           id: 2,
-          name: "They Both Die at the End",
+          name: "Carnation",
           cost: 9.99,
-          author: "Adam Silvera",
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B600%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780063278547_p0_v1_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B600x10000%5D&sink=format%5Bwebp%5D",
           blurb:
@@ -42,9 +40,8 @@ export default {
         },
         {
           id: 3,
-          name: "The Perks of Being a Wallflower",
+          name: "Orchid",
           cost: 13.99,
-          author: "Stephen Chbosky",
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9781982110994_p0_v3_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
@@ -52,9 +49,8 @@ export default {
         },
         {
           id: 4,
-          name: "The Book Thief",
+          name: "Tulip",
           cost: 12.99,
-          author: "Markus Zusak",
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780375842207_p0_v12_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
@@ -62,9 +58,8 @@ export default {
         },
         {
           id: 5,
-          name: "Milk and Honey",
+          name: "Dahlia",
           cost: 11.99,
-          author: "Rupi Kaur",
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9781449474256_p0_v11_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
@@ -72,18 +67,16 @@ export default {
         },
         {
           id: 6,
-          name: "Little Women and Other Novels",
+          name: "Lily",
           cost: 25.0,
-          author: "Louisa May Alcott",
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781435167179_p1_v9%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
           blurb: "",
         },
         {
           id: 7,
-          name: "The Secret Life of Bees",
+          name: "Sunflower",
           cost: 14.99,
-          author: "Sue Monk Kidd",
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780142001745_p0_v9_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
@@ -91,9 +84,8 @@ export default {
         },
         {
           id: 8,
-          name: "The Song of Achilles",
+          name: "Marigold",
           cost: 14.99,
-          author: "Madeline Miller",
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780062060624_p0_v4_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
@@ -101,9 +93,8 @@ export default {
         },
         {
           id: 9,
-          name: "If He Had Been with Me",
+          name: "Buttercup",
           cost: 10.99,
-          author: "Laura Nowlin",
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B600%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9781728205489_p0_v2_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B600x10000%5D&sink=format%5Bwebp%5D",
           blurb:
@@ -111,9 +102,8 @@ export default {
         },
         {
           id: 10,
-          name: "Blue Period Volume 1",
+          name: "Hydrangea",
           cost: 12.99,
-          author: "Tsubasa Yamaguchi",
           image:
             "https://prodimage.images-bn.com/pimages/9781646511129_p0_v2_s600x595.jpg",
           blurb:
@@ -121,9 +111,8 @@ export default {
         },
         {
           id: 11,
-          name: "i fell in love with hope",
+          name: "Daisy",
           cost: 7.58,
-          author: "Lancali",
           image: "https://m.media-amazon.com/images/I/51ZnBH4OxpL.jpg",
           blurb:
             "Against the unforgiving landscape of a hospital, I fell in love with a mischievous, sun-eyed boy who became my only joy in that desolate place. That is what made it all the more soul-crushing when he committed suicide in front of me.",
@@ -152,14 +141,14 @@ export default {
         />
       </div>
     </div>
-    <div class="Books">
+    <div class="flowers">
       <Card
-        v-for="books in books"
-        :name="books.name"
-        :cost="books.cost"
-        :image="books.image"
-        :blurb="books.blurb"
-        :author="books.author"
+        v-for="flowers in flowers"
+        :name="flowers.name"
+        :cost="flowers.cost"
+        :image="flowers.image"
+        :blurb="flowers.blurb"
+        :author="flowers.author"
       />
     </div>
   </main>
