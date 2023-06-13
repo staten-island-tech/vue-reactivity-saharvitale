@@ -4,18 +4,18 @@
 
 <script>
 export default {
-  name: "CartButton",
-    data() {
+  name: 'CartButton',
+  data() {
     return {
-      total: 0,
-    };
+      total: 0
+    }
   },
   methods: {
     cartCount() {
-      this.total++;
-    },
-  },
-};
+      this.total++
+    }
+  }
+}
 </script>
 
 <style scoped>
@@ -24,7 +24,7 @@ button {
   font-size: 15px;
   border: 10px white;
   border-radius: 50%;
-  background-color: rgb(67, 103, 67);
+  background-color: rgb(241, 193, 145);
   color: white;
   height: 50px;
   margin-top: 10px;

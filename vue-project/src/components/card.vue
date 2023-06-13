@@ -2,58 +2,56 @@
   <div class="cards">
     <h2 class="name">{{ name }}</h2>
     <img :src="image" alt="" />
-    <p>${{ cost }} </p>
+    <p>${{ cost }}</p>
     <p class="desc">{{ blurb }}</p>
-    <AddtoCartButton @click="test"
-      >Add {{ name }} to Cart ${{ cost }}</AddtoCartButton
-    >
+    <AddtoCartButton @click="test">Add {{ name }} to Cart ${{ cost }}</AddtoCartButton>
   </div>
 </template>
 
 <script>
-import AddtoCartButton from "./addcart.vue";
-import { store } from "./store.js";
+import AddtoCartButton from './addcart.vue'
+import { store } from './store.js'
 
 export default {
-  name: "Card",
+  name: 'Card',
   props: {
     name: String,
     cost: Number,
     image: String,
-    blurb: String,
+    blurb: String
   },
   data() {
     return {
-      store,
-    };
+      store
+    }
   },
   components: {
-    AddtoCartButton,
+    AddtoCartButton
   },
   methods: {
     test() {
       this.store.cart.push({
         name: this.name,
         cost: this.cost,
-        image: this.image,
-      });
-      console.log(this.store.cart);
-    },
-  },
-};
+        image: this.image
+      })
+      console.log(this.store.cart)
+    }
+  }
+}
 </script>
 
 <style scoped>
 .cards {
   width: 350px;
   flex-wrap: wrap;
-  background-color: rgb(125, 180, 125);
+  background-color: rgb(249, 219, 187);
   text-align: center;
   padding: 15px;
   margin: auto;
   margin-bottom: 50px;
   border-radius: 10px;
-  height: 770px;
+  height: 550px;
   margin-left: 50px;
   margin-right: 50px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;

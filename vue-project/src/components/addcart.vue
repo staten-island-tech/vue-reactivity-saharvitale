@@ -4,16 +4,16 @@
 
 <script>
 export default {
-  name: "AddtoCartButton",
+  name: 'AddtoCartButton',
   data() {
-    return {};
+    return {}
   },
   props: {
     name: String,
-    cost: Number,
+    cost: Number
   },
-  methods: {},
-};
+  methods: {}
+}
 </script>
 
 <style scoped>
@@ -22,7 +22,7 @@ button {
   font-size: 15px;
   border: 10px white;
   border-radius: 50px;
-  background-color: rgb(67, 103, 67);
+  background-color: rgb(241, 193, 145);
   color: white;
   height: 50px;
   margin-top: 10px;
