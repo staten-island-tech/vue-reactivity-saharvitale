@@ -27,7 +27,7 @@ export default {
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780743273565_p0_v14_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
-            "F. Scott Fitzgerald's novel, The Great Gatsby, follows Jay Gatsby, a man who orders his life around one desire: to be reunited with Daisy Buchanan, the love he lost five years earlier. Gatsby's quest leads him from poverty to wealth, into the arms of his beloved, and eventually to death.",
+            "Roses are erect, climbing, or trailing shrubs, the stems of which are usually copiously armed with prickles of various shapes and sizes, commonly called thorns. The leaves are alternate and pinnately compound (i.e., feather-formed), usually with oval leaflets that are sharply toothed. The flowers of wild roses usually have five petals, whereas the flowers of cultivated roses are often double (i.e., with multiple sets of petals).",
         },
         {
           id: 2,
@@ -36,7 +36,7 @@ export default {
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B600%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780063278547_p0_v1_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B600x10000%5D&sink=format%5Bwebp%5D",
           blurb:
-            "Discovering they have less than 24 hours to live, two young strangers embark on an adventure of a life-time, (within the confines of one day,) in this moving and unforgettable bestseller from Adam Silvera. A love story with a difference - an unforgettable tale of life, loss and making each day count.",
+          "Carnations are among the most popular commercial cut flowers, being used in floral arrangements, corsages, and boutonnieres. In 1907 Anna Jarvis of Philadelphia selected the pink carnation as the symbol for Mother’s Day. In Europe the carnation was formerly used as a treatment for fevers. It was also used to spice wine and ale during Elizabethan times, as a substitute for the more expensive clove.",
         },
         {
           id: 3,
@@ -45,7 +45,7 @@ export default {
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9781982110994_p0_v3_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
-            "Charlie is an introvert, a typical wallflower. He doesn't have many friends and loses his only friend when he commits suicide. Being the youngest guy in his family, Charlie finds it hard to uncover the mysteries his life troubles him with.",
+          "As a group, the orchids are different from other plants but only in the morphological (structural) characteristics associated with the flower and its organization. Even the special characteristics of orchid flowers, such as the masses of pollen called pollinia, the joining of the stamens and pistil to form a column, and the tiny seeds without endosperm are found individually in other groups of flowering plants.",
         },
         {
           id: 4,
@@ -54,7 +54,7 @@ export default {
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780375842207_p0_v12_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
-            "The novel follows the adventures of young Liesel Meminger. By personifying Death as a tangible being who narrates the story, the novel presents a unique perspective into the world of the victims of the war. ",
+"The tulip produces two or three thick bluish green leaves that are clustered at the base of the plant. The usually solitary bell-shaped flowers have three petals and three sepals. There are six free stamens, and the three-lobed ovary is terminated by a sessile three-lobed stigma. The fruit is a capsule with many seeds. Many garden tulips can be propagated only by their scaly bulbs.",
         },
         {
           id: 5,
@@ -63,7 +63,7 @@ export default {
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9781449474256_p0_v11_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
-            "Milk and Honey is a collection of poetry and prose about survival. It is about the experience of violence, abuse, love, loss, and femininity. It is split into four chapters, and each chapter serves a different purpose, deals with a different pain, heals a different heartache.",
+"Dahlias are tuberous perennials, and most have simple leaves that are segmented and toothed or cut. The compound flowers may be white, yellow, red, or purple in colour. Wild species of dahlias have both disk and ray flowers in the flowering heads, but many varieties of ornamentals such as the common garden dahlia (D. bipinnata) have shortened ray flowers.",
         },
         {
           id: 6,
@@ -71,7 +71,7 @@ export default {
           cost: 25.0,
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781435167179_p1_v9%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
-          blurb: "",
+          blurb: "The true lilies are erect perennial plants with leafy stems, scaly bulbs, usually narrow leaves, and solitary or clustered flowers. The flowers consist of six petal-like segments, which may form the shape of a trumpet, with a more or less elongated tube, as in the Madonna lily (Lilium candidum) and Easter lily (L. longiflorum).",
         },
         {
           id: 7,
@@ -80,7 +80,7 @@ export default {
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780142001745_p0_v9_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
-            "When Lily's fierce-hearted “stand-in mother,” Rosaleen, insults three racists in town, they escape to Tiburon, South Carolina—a town that holds the secret to her mother's past. Taken in by an eccentric trio of black beekeeping sisters, Lily finds refuge in their mesmerizing world of bees, honey, and the Black Madonna.",
+"The disk flowers are brown, yellow, or purple, while the petallike ray flowers are yellow. The fruit is a single-seeded achene. Oilseed varieties typically have small black achenes, while those grown for direct seed consumption, known as confection varieties, have larger black-and-white achenes that readily separate from the seed within.",
         },
         {
           id: 8,
@@ -89,7 +89,7 @@ export default {
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780062060624_p0_v4_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
           blurb:
-            " Seduced by the promise of a glorious destiny, Achilles joins their cause. Torn between love and fear for his friend, Patroclus follows Achilles into war, little knowing that the years that follow will test everything they have learned, everything they hold dear. And that, before he is ready, he will be forced to surrender his friend to the hands of Fate.",
+"Members of the genus Tagetes have attractive yellow, orange, or red composite flowers that are solitary on the stems or clustered. The leaves are arranged opposite each other on the stem and are usually finely cut. Characteristic bracts (leaflike structures) form a cup-shaped base below each flower head.",
         },
         {
           id: 9,
@@ -98,7 +98,7 @@ export default {
           image:
             "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B600%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9781728205489_p0_v2_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B600x10000%5D&sink=format%5Bwebp%5D",
           blurb:
-            "Autumn and Finn used to be inseparable. But then something changed. Or they changed. Now, they do their best to ignore each other. Autumn has her boyfriend Jamie, and her close-knit group of friends. And Finn has become that boy at school, the one everyone wants to be around. That still doesn't stop the way Autumn feels every time she and Finn cross paths, and the growing, nagging thought that maybe things could have been different. Maybe they should be together. But come August, things will change forever. And as time passes, Autumn will be forced to confront how else life might have been different if they had never parted ways…",
+"Most buttercups have tuberous or fibrous roots. The flowers are solitary or loosely clustered and have five green sepals, five to many glossy yellow (sometimes white) petals, and numerous male and female structures (stamens and pistils). Cultivated varieties have been bred in many colours. The leaves are highly variable, depending on the species.",
         },
         {
           id: 10,
@@ -107,7 +107,7 @@ export default {
           image:
             "https://prodimage.images-bn.com/pimages/9781646511129_p0_v2_s600x595.jpg",
           blurb:
-            "Popular guy Yatora realizes he's just going through the motions to make other people happy.  It's an effortless performance, and, ultimately a dull one. But he wanders into the art room one day, and a lone painting captures his eye, awakening him to a kind of beauty he never knew. Compelled and consumed, he dives in headfirst—and he's about to learn how savage and unforgiving art can be. He finds himself in a new passion: painting. But untethering yourself from all your past expectations is dangerous as well as thrilling.",
+"Hills-of-snow, or wild hydrangea (H. arborescens), a shrub slightly more than 1 metre (4 feet) tall, has rounded clusters of white flowers. The French hydrangea, or hortensia (H. macrophylla), is widely cultivated in many varieties for its large globular flower clusters in colours of rose, lavender, blue, and, rarely, white.",
         },
         {
           id: 11,
@@ -115,7 +115,7 @@ export default {
           cost: 7.58,
           image: "https://m.media-amazon.com/images/I/51ZnBH4OxpL.jpg",
           blurb:
-            "Against the unforgiving landscape of a hospital, I fell in love with a mischievous, sun-eyed boy who became my only joy in that desolate place. That is what made it all the more soul-crushing when he committed suicide in front of me.",
+"The plant has leafless flower stalks and hairy bracts (leaflike structures) below the flower heads. Some varieties of the English daisy have double flowers; others may have pink or red ray flowers surrounding the bright yellow disk.",
         },
       ],
     };
